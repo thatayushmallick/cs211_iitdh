@@ -1,0 +1,50 @@
+successor 55
+preorder
+insert 65
+inorder
+minimum
+insert 42
+insert 3
+predecessor 42
+insert 59
+insert 38
+search 13
+minimum
+insert 93
+preorder
+insert 47
+insert 5
+insert 55
+successor 47
+insert 10
+preorder
+insert 99
+search 98
+insert 87
+postorder
+insert 6
+insert 23
+insert 68
+preorder
+insert 40
+search 29
+insert 70
+preorder
+insert 66
+insert 21
+preorder
+insert 44
+insert 46
+predecessor 31
+maximum
+insert 123
+successor 29
+insert 32
+postorder
+insert 45
+insert 33
+inorder
+insert 82
+insert 74
+maximum
+preorder

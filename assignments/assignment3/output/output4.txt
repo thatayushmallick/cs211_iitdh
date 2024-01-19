@@ -1,0 +1,8 @@
+Inserted value: 200
+Inserted value: 300
+Inserted value: 500
+Inserted value: 700
+deleted value: 200
+Elements of the queue: 300 500 700
+Inserted value: 100
+Elements of the queue: 300 500 700 100

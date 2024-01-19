@@ -1,0 +1,7 @@
+inorder
+preorder
+minimum
+maximum
+search 10
+successor 10
+predecessor 10

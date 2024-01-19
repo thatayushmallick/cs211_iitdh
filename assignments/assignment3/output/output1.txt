@@ -1,0 +1,6 @@
+Inserted value: 10
+Inserted value: 15
+Inserted value: -11
+Elements of the queue: 10 15 -11
+deleted value: 10
+Elements of the queue: 15 -11

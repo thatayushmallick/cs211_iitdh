@@ -1,0 +1,15 @@
+10 inserted
+11 inserted
+33 inserted
+22 inserted
+44 inserted
+17 inserted
+88 inserted
+10 11 17 22 33 44 88 
+17 22 88 44 33 11 10 
+10 11 33 22 17 44 88 
+10
+88
+successor of 88 does not exist
+100 does not exist
+50 not found

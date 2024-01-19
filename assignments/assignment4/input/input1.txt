@@ -1,0 +1,15 @@
+insert 10 
+insert 11
+insert 33
+insert 22
+insert 44
+insert 17
+insert 88
+inorder
+postorder
+preorder
+minimum
+maximum
+successor 88
+predecessor 100
+search 50

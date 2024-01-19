@@ -1,0 +1,18 @@
+Tree is empty
+Tree is empty
+7 inserted
+5 inserted
+1 inserted
+8 inserted
+3 inserted
+6 inserted
+0 inserted
+9 inserted
+4 inserted
+2 inserted
+0 1 2 3 4 5 6 7 8 9 
+7 5 1 0 3 2 4 6 8 9 
+0 2 4 3 1 6 5 9 8 7 
+6 found
+8
+3

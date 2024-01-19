@@ -1,0 +1,20 @@
+preorder
+search 24
+successor 35
+maximum
+maximum
+insert 30
+insert 47
+insert 25
+insert 45
+successor 36
+insert 37
+postorder
+maximum
+maximum
+minimum
+minimum
+inorder
+postorder
+insert 33
+preorder

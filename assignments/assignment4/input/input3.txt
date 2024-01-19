@@ -1,0 +1,18 @@
+successor 10
+predecessor 10
+insert 7
+insert 5
+insert 1
+insert 8
+insert 3
+insert 6
+insert 0
+insert 9
+insert 4
+insert 2
+inorder
+preorder
+postorder
+search 6
+successor 7
+predecessor 4

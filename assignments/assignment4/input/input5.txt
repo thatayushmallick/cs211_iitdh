@@ -1,0 +1,40 @@
+insert 35
+insert 39
+inorder
+search 27
+minimum
+maximum
+insert 32
+insert 34
+predecessor 21
+insert 134
+insert 30
+minimum
+maximum
+postorder
+successor 30
+search 34
+insert 139
+search 40
+insert 36
+insert 42
+insert 25
+minimum
+predecessor 31
+successor 42
+search 31
+search 38
+insert 44
+minimum
+postorder
+insert 20
+insert 130
+postorder
+insert 49
+insert 38
+successor 21
+insert 144
+search 32
+insert 23
+inorder
+search 35

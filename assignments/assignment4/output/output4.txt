@@ -1,0 +1,20 @@
+
+24 not found
+Tree is empty
+
+
+30 inserted
+47 inserted
+25 inserted
+45 inserted
+36 does not exist
+37 inserted
+25 37 45 47 30 
+47
+47
+25
+25
+25 30 37 45 47 
+25 37 45 47 30 
+33 inserted
+30 25 47 45 37 33 

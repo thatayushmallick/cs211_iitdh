@@ -1,0 +1,500 @@
+dequeue
+enqueue 47
+enqueue 45
+enqueue 42
+enqueue 13
+enqueue 40
+display
+display
+display
+enqueue -48
+enqueue -11
+enqueue 49
+dequeue
+display
+enqueue -49
+enqueue 43
+dequeue
+display
+display
+dequeue
+enqueue 24
+enqueue 35
+enqueue -50
+enqueue 27
+enqueue -45
+display
+dequeue
+display
+dequeue
+enqueue -21
+enqueue 18
+enqueue 19
+display
+dequeue
+dequeue
+enqueue 18
+display
+dequeue
+dequeue
+enqueue -16
+display
+display
+enqueue -40
+display
+enqueue 13
+enqueue 21
+display
+enqueue -40
+enqueue -36
+display
+enqueue -7
+enqueue 13
+enqueue -33
+enqueue -20
+enqueue -14
+enqueue 48
+enqueue -19
+enqueue 19
+enqueue 37
+enqueue 1
+enqueue 24
+enqueue -26
+enqueue -37
+dequeue
+dequeue
+enqueue -15
+enqueue 35
+enqueue -42
+enqueue 43
+display
+enqueue 25
+display
+display
+enqueue 32
+enqueue -42
+enqueue 30
+enqueue 47
+enqueue 2
+enqueue 33
+dequeue
+enqueue 31
+dequeue
+dequeue
+enqueue -29
+enqueue -1
+enqueue -2
+enqueue 8
+enqueue 36
+enqueue 19
+enqueue -32
+display
+enqueue 27
+enqueue -36
+display
+enqueue 13
+enqueue -42
+display
+enqueue -24
+enqueue -16
+display
+dequeue
+enqueue -20
+enqueue -26
+enqueue 8
+enqueue 49
+enqueue 21
+enqueue 24
+enqueue 13
+enqueue 49
+enqueue -22
+enqueue -1
+enqueue -21
+display
+enqueue 28
+display
+enqueue 36
+display
+enqueue 28
+display
+display
+enqueue -43
+enqueue 48
+display
+dequeue
+enqueue 14
+enqueue -21
+enqueue 9
+display
+enqueue 49
+display
+dequeue
+enqueue 17
+display
+display
+enqueue 36
+display
+enqueue 22
+enqueue 16
+display
+enqueue 28
+display
+display
+dequeue
+enqueue 35
+display
+dequeue
+dequeue
+enqueue 27
+dequeue
+enqueue 29
+display
+enqueue 11
+enqueue 40
+dequeue
+dequeue
+enqueue -4
+display
+display
+dequeue
+dequeue
+enqueue -1
+dequeue
+dequeue
+enqueue 15
+enqueue -39
+enqueue -34
+enqueue -44
+display
+enqueue 33
+enqueue -35
+enqueue -50
+enqueue 26
+enqueue 45
+enqueue 6
+display
+enqueue -50
+enqueue -12
+enqueue -38
+display
+enqueue 1
+display
+display
+enqueue 28
+dequeue
+dequeue
+dequeue
+display
+enqueue -50
+enqueue -7
+enqueue 22
+enqueue 22
+enqueue -5
+enqueue -41
+enqueue 27
+dequeue
+enqueue -13
+enqueue 25
+dequeue
+enqueue 17
+display
+dequeue
+enqueue -16
+display
+dequeue
+display
+enqueue -35
+display
+enqueue -25
+display
+enqueue 0
+display
+enqueue 0
+enqueue 30
+display
+display
+enqueue 30
+enqueue -3
+display
+enqueue -50
+dequeue
+dequeue
+enqueue 44
+dequeue
+enqueue 36
+enqueue -26
+dequeue
+display
+dequeue
+enqueue 47
+dequeue
+display
+display
+enqueue -23
+enqueue 36
+enqueue 12
+enqueue 20
+display
+enqueue 19
+dequeue
+enqueue 19
+display
+enqueue 24
+display
+enqueue 16
+enqueue 42
+display
+enqueue 14
+enqueue -17
+display
+dequeue
+enqueue 11
+enqueue 29
+dequeue
+enqueue -11
+enqueue -1
+enqueue -30
+enqueue 28
+dequeue
+enqueue -50
+enqueue 36
+dequeue
+enqueue 24
+display
+enqueue 17
+dequeue
+enqueue 33
+display
+enqueue 47
+enqueue 9
+enqueue -32
+dequeue
+display
+enqueue -20
+enqueue 43
+display
+enqueue 15
+display
+enqueue 25
+display
+enqueue 11
+enqueue 8
+dequeue
+enqueue 29
+enqueue 30
+enqueue -12
+display
+enqueue 38
+display
+dequeue
+display
+enqueue 17
+enqueue 32
+enqueue 19
+display
+display
+display
+display
+dequeue
+enqueue 17
+enqueue -6
+enqueue 38
+enqueue -34
+enqueue -16
+enqueue -37
+dequeue
+enqueue 47
+enqueue -48
+enqueue -13
+dequeue
+enqueue -46
+display
+display
+dequeue
+display
+enqueue -50
+enqueue -42
+display
+enqueue 25
+dequeue
+enqueue 5
+dequeue
+enqueue -26
+enqueue 24
+display
+enqueue -33
+dequeue
+display
+dequeue
+enqueue -41
+enqueue -34
+enqueue -31
+enqueue -49
+enqueue -19
+display
+enqueue -38
+enqueue -3
+enqueue 2
+enqueue -12
+enqueue 1
+enqueue 34
+enqueue -46
+enqueue -22
+dequeue
+enqueue -30
+enqueue 10
+display
+enqueue -21
+dequeue
+dequeue
+enqueue -50
+enqueue 49
+display
+enqueue -39
+enqueue 44
+enqueue 45
+enqueue 4
+enqueue 3
+display
+dequeue
+enqueue 38
+enqueue 16
+enqueue 22
+enqueue 11
+enqueue -30
+enqueue -37
+enqueue -36
+dequeue
+enqueue -20
+display
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 10
+display
+display
+display
+enqueue 27
+enqueue -24
+enqueue 38
+enqueue 31
+enqueue -25
+dequeue
+enqueue -41
+enqueue 41
+enqueue 13
+display
+dequeue
+enqueue 37
+dequeue
+enqueue 14
+display
+display
+dequeue
+enqueue 31
+enqueue -34
+display
+enqueue -34
+enqueue 0
+dequeue
+enqueue 33
+enqueue 25
+display
+enqueue -13
+dequeue
+enqueue -38
+dequeue
+enqueue -30
+enqueue 12
+dequeue
+display
+enqueue 48
+dequeue
+dequeue
+enqueue -41
+enqueue -34
+display
+display
+enqueue 24
+enqueue 42
+enqueue -2
+enqueue -50
+enqueue -26
+display
+enqueue -9
+dequeue
+enqueue -35
+display
+dequeue
+enqueue -15
+enqueue 9
+dequeue
+enqueue 26
+dequeue
+enqueue -47
+display
+enqueue 15
+display
+enqueue -20
+enqueue -37
+dequeue
+display
+dequeue
+enqueue 8
+enqueue 47
+enqueue 7
+enqueue 16
+dequeue
+enqueue -2
+dequeue
+dequeue
+enqueue -46
+enqueue 37
+enqueue 15
+enqueue -5
+enqueue -42
+enqueue -30
+enqueue -35
+enqueue -29
+display
+dequeue
+enqueue -43
+display
+enqueue 8
+enqueue -16
+enqueue 45
+dequeue
+enqueue -37
+display
+enqueue -32
+dequeue
+display
+enqueue -19
+enqueue -45
+enqueue -28
+dequeue
+enqueue -37
+display
+enqueue 36
+dequeue
+enqueue 48
+enqueue 33
+enqueue 22
+enqueue 44
+enqueue -4
+enqueue -24
+enqueue 18
+enqueue -21
+dequeue
+display
+display
+display
+dequeue
+enqueue -18
+dequeue
+dequeue
+display
+dequeue
+enqueue -10
+display

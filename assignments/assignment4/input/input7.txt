@@ -1,0 +1,50 @@
+insert 132
+insert 184
+inorder
+preorder
+insert 193
+insert 127
+search 193
+insert 154
+insert 136
+predecessor 135
+maximum
+insert 133
+insert 141
+minimum
+maximum
+postorder
+insert 227
+insert 142
+insert 125
+insert 171
+predecessor 135
+insert 128
+inorder
+insert 175
+predecessor 119
+preorder
+successor 186
+insert 140
+insert 153
+insert 104
+insert 106
+postorder
+insert 225
+successor 142
+successor 103
+minimum
+insert 160
+insert 143
+postorder
+predecessor 150
+postorder
+successor 134
+insert 189
+insert 123
+insert 173
+insert 118
+insert 195
+predecessor 125
+insert 124
+insert 158
